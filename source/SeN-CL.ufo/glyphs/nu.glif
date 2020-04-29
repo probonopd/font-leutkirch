@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nu" format="2">
+  <advance width="468"/>
+  <unicode hex="03BD"/>
+  <outline>
+    <contour>
+      <point x="258" y="14" type="line"/>
+      <point x="437" y="490" type="line"/>
+      <point x="385" y="490" type="line"/>
+      <point x="234" y="80" type="line"/>
+      <point x="83" y="490" type="line"/>
+      <point x="31" y="490" type="line"/>
+      <point x="210" y="14" type="line"/>
+    </contour>
+  </outline>
+</glyph>

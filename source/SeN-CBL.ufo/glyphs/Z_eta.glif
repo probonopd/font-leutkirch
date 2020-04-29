@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zeta" format="2">
+  <advance width="493"/>
+  <unicode hex="0396"/>
+  <outline>
+    <contour>
+      <point x="7" y="-13" type="line"/>
+      <point x="486" y="-13" type="line"/>
+      <point x="486" y="92" type="line"/>
+      <point x="142" y="92" type="line"/>
+      <point x="464" y="633" type="line"/>
+      <point x="464" y="726" type="line"/>
+      <point x="23" y="726" type="line"/>
+      <point x="23" y="621" type="line"/>
+      <point x="328" y="621" type="line"/>
+      <point x="7" y="79" type="line"/>
+    </contour>
+  </outline>
+</glyph>

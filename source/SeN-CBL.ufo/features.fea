@@ -1,0 +1,268 @@
+languagesystem latn dflt;
+
+
+# GPOS 
+
+
+lookup kernHorizontalKerninginLatinlookup0 {
+  lookupflag 0;
+    pos \A \y -17;
+    pos \A \w -17;
+    pos \A \v -17;
+    pos \A \j 29;
+    pos \A \Y -73;
+    pos \A \W -24;
+    pos \A \V -54;
+    pos \A \T -81;
+    pos \A \Q -11;
+    pos \A \O -11;
+    pos \A \G -11;
+    pos \A \C -11;
+    pos \B \Y -14;
+    pos \B \V -14;
+    pos \B \T -16;
+    pos \B \A -9;
+    pos \D \x -14;
+    pos \D \j -14;
+    pos \D \Y -24;
+    pos \D \X -14;
+    pos \D \V -14;
+    pos \D \T -19;
+    pos \D \J -9;
+    pos \D \A -29;
+    pos \F \A -54;
+    pos \F \period -128;
+    pos \F \comma -128;
+    pos \G \Y -9;
+    pos \G \T -9;
+    pos \K \v -14;
+    pos \K \q -14;
+    pos \K \o -14;
+    pos \K \j 29;
+    pos \K \g -14;
+    pos \K \e -14;
+    pos \K \d -14;
+    pos \K \c -14;
+    pos \K \a -14;
+    pos \K \Y -14;
+    pos \K \V -14;
+    pos \K \Q -14;
+    pos \K \O -14;
+    pos \K \G -14;
+    pos \K \C -14;
+    pos \K \A -14;
+    pos \L \y -34;
+    pos \L \v -34;
+    pos \L \j 29;
+    pos \L \Y -97;
+    pos \L \W -54;
+    pos \L \V -91;
+    pos \L \U -9;
+    pos \L \T -91;
+    pos \L \Q -9;
+    pos \L \O -9;
+    pos \L \G -9;
+    pos \L \C -9;
+    pos \O \x -9;
+    pos \O \Y -24;
+    pos \O \X -24;
+    pos \O \W -24;
+    pos \O \V -24;
+    pos \O \T -41;
+    pos \O \J -19;
+    pos \O \A -29;
+    pos \P \q -4;
+    pos \P \o -4;
+    pos \P \j -9;
+    pos \P \g -4;
+    pos \P \d -4;
+    pos \P \c -4;
+    pos \P \a -4;
+    pos \P \Y -14;
+    pos \P \X -14;
+    pos \P \V -14;
+    pos \P \T -14;
+    pos \P \J -19;
+    pos \P \A -73;
+    pos \P \period -168;
+    pos \P \comma -168;
+    pos \Q \Y -14;
+    pos \Q \T -14;
+    pos \R \Y -36;
+    pos \R \W -17;
+    pos \R \V -17;
+    pos \R \T -17;
+    pos \T \uni00AD -128;
+    pos \T \z -78;
+    pos \T \y -78;
+    pos \T \w -78;
+    pos \T \v -78;
+    pos \T \u -78;
+    pos \T \s -78;
+    pos \T \r -78;
+    pos \T \q -78;
+    pos \T \p -78;
+    pos \T \o -78;
+    pos \T \n -78;
+    pos \T \m -78;
+    pos \T \g -78;
+    pos \T \e -78;
+    pos \T \d -78;
+    pos \T \c -78;
+    pos \T \a -78;
+    pos \T \Q -19;
+    pos \T \O -19;
+    pos \T \J -29;
+    pos \T \G -19;
+    pos \T \C -19;
+    pos \T \A -81;
+    pos \T \semicolon -82;
+    pos \T \colon -82;
+    pos \T \period -110;
+    pos \T \comma -110;
+    pos \U \J -6;
+    pos \U \A -6;
+    pos \V \uni00AD -54;
+    pos \V \y -17;
+    pos \V \x -36;
+    pos \V \u -36;
+    pos \V \s -36;
+    pos \V \r -36;
+    pos \V \q -54;
+    pos \V \o -54;
+    pos \V \i 9;
+    pos \V \g -54;
+    pos \V \e -54;
+    pos \V \d -54;
+    pos \V \c -54;
+    pos \V \a -54;
+    pos \V \G -19;
+    pos \V \A -54;
+    pos \V \semicolon -45;
+    pos \V \colon -45;
+    pos \V \period -128;
+    pos \V \comma -128;
+    pos \W \uni00AD -27;
+    pos \W \u -17;
+    pos \W \r -17;
+    pos \W \q -24;
+    pos \W \o -24;
+    pos \W \g -24;
+    pos \W \e -24;
+    pos \W \d -24;
+    pos \W \c -24;
+    pos \W \a -36;
+    pos \W \A -24;
+    pos \W \semicolon -17;
+    pos \W \colon -17;
+    pos \W \period -73;
+    pos \W \comma -73;
+    pos \Y \uni00AD -110;
+    pos \Y \w -19;
+    pos \Y \v -39;
+    pos \Y \u -73;
+    pos \Y \s -78;
+    pos \Y \q -83;
+    pos \Y \p -73;
+    pos \Y \o -78;
+    pos \Y \i -8;
+    pos \Y \g -78;
+    pos \Y \e -78;
+    pos \Y \d -78;
+    pos \Y \c -78;
+    pos \Y \a -78;
+    pos \Y \Q -19;
+    pos \Y \O -19;
+    pos \Y \J -29;
+    pos \Y \G -19;
+    pos \Y \C -19;
+    pos \Y \A -73;
+    pos \Y \semicolon -91;
+    pos \Y \colon -91;
+    pos \Y \period -110;
+    pos \Y \comma -110;
+    pos \a \Y -53;
+    pos \b \Y -53;
+    pos \c \Y -53;
+    pos \e \Y -53;
+    pos \f \t -9;
+    pos \f \f -9;
+    pos \g \Y -53;
+    pos \h \Y -53;
+    pos \k \q -14;
+    pos \k \o -14;
+    pos \k \g -14;
+    pos \k \e -14;
+    pos \k \d -14;
+    pos \k \c -14;
+    pos \k \a -14;
+    pos \k \Y -53;
+    pos \m \Y -53;
+    pos \n \Y -53;
+    pos \o \v -9;
+    pos \o \Y -53;
+    pos \p \Y -53;
+    pos \q \Y -53;
+    pos \r \uni00AD -54;
+    pos \r \q -17;
+    pos \r \o -17;
+    pos \r \n 17;
+    pos \r \e -17;
+    pos \r \d -17;
+    pos \r \c -17;
+    pos \r \period -91;
+    pos \r \comma -91;
+    pos \s \Y -53;
+    pos \u \Y -53;
+    pos \v \Y -53;
+    pos \v \period -73;
+    pos \v \comma -73;
+    pos \w \Y -53;
+    pos \w \period -54;
+    pos \w \comma -54;
+    pos \y \period -91;
+    pos \y \comma -91;
+} kernHorizontalKerninginLatinlookup0;
+
+feature kern {
+
+ script latn;
+     language dflt ;
+      lookup kernHorizontalKerninginLatinlookup0;
+} kern;
+
+@GDEF_Simple = [\space \exclam \quotedbl \numbersign \dollar \percent \ampersand 
+	\quotesingle \parenleft \parenright \asterisk \plus \comma \hyphen \period 
+	\slash \zero \one \two \three \four \five \six \seven \eight \nine \colon \semicolon 
+	\less \equal \greater \question \at \A \B \C \D \E \F \G \H \I \J \K \L \M \N \O \P \Q \R \S \T 
+	\U \V \W \X \Y \Z \bracketleft \backslash \bracketright \asciicircum \underscore 
+	\grave \a \b \c \d \e \f \g \h \i \j \k \l \m \n \o \p \q \r \s \t \u \v \w \x \y \z \braceleft \bar 
+	\braceright \asciitilde \dieresis \plusminus \multiply \divide \degree \section 
+	\guillemotleft \guillemotright \acute \tilde \caron \breve \hungarumlaut \ring 
+	\dotaccent \cedilla \ogonek \exclamdown \questiondown \currency \paragraph 
+	\Alpha \Beta \Gamma \uni0394 \Epsilon \Zeta \Eta \Theta \Iota \Kappa \Lambda \Mu \Nu 
+	\Xi \Omicron \Pi \Rho \Sigma \Tau \Upsilon \Phi \Chi \Psi \uni03A9 \alpha \beta 
+	\gamma \delta \epsilon \zeta \eta \theta \iota \kappa \lambda \uni03BC \nu \xi 
+	\omicron \pi \rho \sigma \tau \upsilon \phi \chi \psi \omega \AE \Eth \ordfeminine 
+	\Hbar \IJ \Ldot \Lslash \Oslash \OE \ordmasculine \Thorn \Tbar \Eng \onehalf 
+	\onequarter \threequarters \ae \dcroat \eth \hbar \dotlessi \ij \kgreenlandic 
+	\ldot \lslash \oslash \oe \germandbls \thorn \tbar \eng \napostrophe \uni00B9 
+	\uni00B2 \uni00B3 \uni0410 \uni0411 \uni0412 \uni0413 \uni0414 \uni0415 \uni0401 
+	\uni0416 \uni0417 \uni0418 \uni0419 \uni041A \uni041B \uni041C \uni041D \uni041E 
+	\uni041F \uni0420 \uni0421 \uni0422 \uni0423 \uni0424 \uni0425 \uni0426 \uni0427 
+	\uni0428 \uni0429 \uni042A \uni042B \uni042C \uni042D \uni042E \uni042F \uni0430 
+	\uni0431 \uni0432 \uni0433 \uni0434 \uni0435 \uni0451 \uni0436 \uni0437 \uni0438 
+	\uni0439 \uni043A \uni043B \uni043C \uni043D \uni043E \uni043F \uni0440 \uni0441 
+	\uni0442 \uni0443 \uni0444 \uni0445 \uni0446 \uni0447 \uni0448 \uni0449 \uni044A 
+	\uni044B \uni044C \uni044D \uni044E \uni044F \uni02BC \uni0001 \uni0002 \uni0003 
+	\uni0004 \uni0005 \uni0006 \uni0007 \uni0008 \uni0009 \uni000A \uni000B \uni000C 
+	\uni000D \uni000E \uni000F \uni0010 \uni0011 \uni0012 \uni0013 \uni0014 \uni0015 
+	\uni0016 \uni0017 \uni0018 \uni0019 \uni001A \uni001B \uni001C \uni001D \uni001E 
+	\uni001F \uni0081 \uni0082 \uni0083 \uni0084 \uni0085 \cent \sterling \yen 
+	\logicalnot \uni00AD \registered \periodcentered \uni02D0 \phi1 ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , , ;
+
+} GDEF;
+
