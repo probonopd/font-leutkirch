@@ -25,8 +25,16 @@ ChangeLog
 2013-12-04 (Rotation team) Initial upload
 - Initial upload of font source based on Seoul Namsan Condensed
   http://english.seoul.go.kr/wp-content/uploads/2013/12/Mac_os_Manual%20installment_2.zip
-- Converted otf to nfo3 using FontForge
-- Removed glyphs with Unicode codes larger than 1000
+- Converted otf to UFO3 using FontForge
+  - CID -> Flatten
+  - Encoding -> Reencode -> ISO 10646-1 (Unicode, BMP)
+  - Select glyph 1000
+  - Ctrl-Shift-End
+  - Encoding -> Detach & Remove Glyphs... -> Remove
+  - File -> Generate Fonts...
+  - Unified Font Object (UFO3)
+  - Force glyph names to: AGL For New Fonts
+  - Generate
 - License missing in zip file, hence license assumed to be applicable
   https://github.com/google/fonts/blob/49fbebd/ofl/seoulnamsancondensed/OFL.txt
 
