@@ -1,6 +1,6 @@
 # Rotation
 
-Rotation is an open font designed by the communnity based on an original design by TypoDesign Lab. Inc.
+Rotation is an open font designed by the community based on an original design by TypoDesign Lab. Inc.
 
 ### Project status
 **NOTE: This is a development font. It is not yet ready for wider use or distribution to end-users.**   
