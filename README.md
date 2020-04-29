@@ -1,6 +1,6 @@
 # Rotation
 
-Rotation is an open font designed by the community in the memory of German font designer Otl Aicher based on an original Korean font by TypoDesign Lab. Inc.
+Rotation is an open font designed by the community in the memory of German font designer Otl Aicher based on the official typeface family of Seoul city by TypoDesign Lab. Inc.
 
 ### Project status
 **NOTE: This is a development font. It is not yet ready for wider use or distribution to end-users.**   
