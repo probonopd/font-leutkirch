@@ -1,5 +1,8 @@
 Copyright 2013 Seoul Metropolitan Government (gonabis@seoul.go.kr), 
-with Reserved Font Name 'Seoul Namsan', 'Seoul Hangang'
+with Reserved Font Name 'Seoul Namsan', 'Seoul Hangang'.
+
+Copyright 2020 Contributors, 
+with Reserved Font Name 'Rotation'.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
