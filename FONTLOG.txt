@@ -28,7 +28,7 @@ ChangeLog
 - Converted otf to UFO3 using FontForge
   - CID -> Flatten
   - Encoding -> Reencode -> ISO 10646-1 (Unicode, BMP)
-  - Select glyph 1000
+  - Select glyph u+1000
   - Ctrl-Shift-End
   - Encoding -> Detach & Remove Glyphs... -> Remove
   - File -> Generate Fonts...
