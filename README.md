@@ -9,6 +9,10 @@ Leutkirch is an open font designed by the community in the memory of German font
 Font sources are published in a public repository and an open workflow is used for building, testing and releasing.   
 You can contribute and report issues but please don't use this in production yet.
 
+## Download
+
+Fonts in OTF and TTF format can be downloaded from [GitHub Releases](../../releases/tag/continuous).
+
 ## Copyright and License
 For copyright and licensing information - including any Reserved Font Names - see [OFL.txt](OFL.txt).
 
