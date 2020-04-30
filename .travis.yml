@@ -1,0 +1,18 @@
+language: minimal
+
+script:
+  - sudo apt-get -y install fontforge
+  - fontforge -c 'f=fontforge.open("source/SeN-CB.ufo"); f.generate("SeN-CB.otf")'
+  - fontforge -c 'f=fontforge.open("source/SeN-CBL.ufo"); f.generate("SeN-CBL.otf")'
+  - fontforge -c 'f=fontforge.open("source/SeN-CEB.ufo"); f.generate("SeN-CEB.otf")'
+  - fontforge -c 'f=fontforge.open("source/SeN-CL.ufo"); f.generate("SeN-CL.otf")'
+  - fontforge -c 'f=fontforge.open("source/SeN-CM.ufo"); f.generate("SeN-CM.otf")'
+  
+after_success:
+  - wget -c https://github.com/probonopd/uploadtool/raw/master/upload.sh
+  - bash upload.sh *.otf
+  
+branches:
+  except:
+    - # Do not build tags that we create when we upload to GitHub Releases
+    - /^(?i:continuous)/
