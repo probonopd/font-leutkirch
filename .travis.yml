@@ -4,7 +4,7 @@ dist: bionic
 script:
   - sudo apt-get -y install fontforge
   - fontforge -c 'f=fontforge.open("source/SeN-CB.ufo"); f.generate("SeN-CB.otf")'
-  - fontforge -c 'f=fontforge.open("source/SeN-CBL.ufo"); f.generate("SeN-CBL.otf")'
+  # fontforge -c 'f=fontforge.open("source/SeN-CBL.ufo"); f.generate("SeN-CBL.otf")'
   - fontforge -c 'f=fontforge.open("source/SeN-CEB.ufo"); f.generate("SeN-CEB.otf")'
   - fontforge -c 'f=fontforge.open("source/SeN-CL.ufo"); f.generate("SeN-CL.otf")'
   - fontforge -c 'f=fontforge.open("source/SeN-CM.ufo"); f.generate("SeN-CM.otf")'
