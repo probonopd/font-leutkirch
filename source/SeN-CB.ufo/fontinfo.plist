@@ -3,11 +3,11 @@
 <plist version="1.0">
   <dict>
     <key>familyName</key>
-    <string>RotationSans CB</string>
+    <string>LeutkirchSans CB</string>
     <key>styleName</key>
     <string>CB</string>
     <key>styleMapFamilyName</key>
-    <string>RotationSans CB Regular</string>
+    <string>LeutkirchSans CB Regular</string>
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>versionMajor</key>
@@ -39,9 +39,9 @@
     <key>openTypeNameVersion</key>
     <string>Version 1.00</string>
     <key>openTypeNameUniqueID</key>
-    <string>RotationSans CB Regular</string>
+    <string>LeutkirchSans CB Regular</string>
     <key>openTypeNamePreferredFamilyName</key>
-    <string>RotationSans CB</string>
+    <string>LeutkirchSans CB</string>
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>Regular</string>
     <key>openTypeOS2Panose</key>
@@ -148,7 +148,7 @@
     <key>postscriptFontName</key>
     <string>SeN-CB</string>
     <key>postscriptFullName</key>
-    <string>RotationSans CB Regular</string>
+    <string>LeutkirchSans CB Regular</string>
     <key>postscriptWeightName</key>
     <string>Regular</string>
     <key>postscriptUnderlineThickness</key>

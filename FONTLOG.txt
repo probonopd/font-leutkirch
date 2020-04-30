@@ -1,15 +1,15 @@
 FONTLOG 
-Rotation font
+Leutkirch font
 =================
 
-This file provides detailed information on the Rotation font software. 
-This information should be distributed along with the Rotation fonts 
+This file provides detailed information on the Leutkirch font software. 
+This information should be distributed along with the Leutkirch fonts 
 and any derivative works.
 
 Basic Font Information
 ----------------------
 
-The Rotation typeface is based on Seoul Namsan Condensed.
+The Leutkirch typeface is based on Seoul Namsan Condensed.
 
 Seoul Namsan is the official sans serif typeface family of Seoul city.
 It aims to increase Seoul's identity and brand value, and its design
@@ -22,7 +22,7 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
-2013-12-04 (Rotation team) Initial upload
+2013-12-04 (Leutkirch team) Initial upload
 - Initial upload of font source based on Seoul Namsan Condensed
   http://english.seoul.go.kr/wp-content/uploads/2013/12/Mac_os_Manual%20installment_2.zip
 - Converted otf to UFO3 using FontForge

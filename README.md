@@ -1,8 +1,8 @@
-# Rotation
+# Leutkirch
 
-Rotation is an open font designed by the community in the memory of German font designer Otl Aicher based on the official typeface family of Seoul city by TypoDesign Lab. Inc.
+Leutkirch is an open font designed by the community in the memory of German font designer Otl Aicher based on the official typeface family of Seoul city by TypoDesign Lab. Inc.
 
-![](Rotation.png)
+![](Leutkirch.png)
 
 ### Project status
 **NOTE: This is a development font. It is not yet ready for wider use or distribution to end-users.**   
