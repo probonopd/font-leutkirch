@@ -6,7 +6,7 @@ Leutkirch is an open font designed by the community in the memory of German font
 
 ### Project status
 **NOTE: This is a development font. It is not yet ready for wider use or distribution to end-users.**   
-Font sources are published in a public repository and a smith open workflow is used for building, testing and releasing.   
+Font sources are published in a public repository and an open workflow is used for building, testing and releasing.   
 You can contribute and report issues but please don't use this in production yet.
 
 ## Copyright and License
