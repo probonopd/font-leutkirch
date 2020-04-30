@@ -33,6 +33,10 @@
       <point x="68" y="721" type="line"/>
       <point x="68" y="-8" type="line"/>
       <point x="166" y="-8" type="line"/>
+      <point x="166" y="280" type="line"/>
+    </contour>
+    <contour>
+      <point x="166" y="377" type="line"/>
       <point x="166" y="626" type="line"/>
       <point x="244" y="626" type="line" smooth="yes"/>
       <point x="260" y="626"/>
