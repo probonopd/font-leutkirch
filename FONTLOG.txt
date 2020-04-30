@@ -22,13 +22,16 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
-2013-12-04 (Leutkirch team) Initial upload
+2020-04-30 (Leutkirch team) Change P, R letterforms
+- Make the Bowl touch the stem in P, R letterforms (U+0050, U+0052, U+0084, U+0420, U+042F, U+044F)
+
+2020-04-29 (Leutkirch team) Initial upload
 - Initial upload of font source based on Seoul Namsan Condensed
   http://english.seoul.go.kr/wp-content/uploads/2013/12/Mac_os_Manual%20installment_2.zip
 - Converted otf to UFO3 using FontForge
   - CID -> Flatten
   - Encoding -> Reencode -> ISO 10646-1 (Unicode, BMP)
-  - Select glyph u+1000
+  - Select U+1000
   - Ctrl-Shift-End
   - Encoding -> Detach & Remove Glyphs... -> Remove
   - File -> Generate Fonts...
