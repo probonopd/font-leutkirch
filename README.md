@@ -1,4 +1,4 @@
-# Leutkirch
+# Leutkirch [![Build Status](https://travis-ci.com/probonopd/font-leutkirch.svg?branch=master)](https://travis-ci.com/probonopd/font-leutkirch)
 
 Leutkirch is an open font designed by the community in the memory of German font designer Otl Aicher based on the official typeface family of Seoul city by TypoDesign Lab. Inc.
 
