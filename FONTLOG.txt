@@ -25,7 +25,7 @@ ChangeLog
 2020-04-30 (Leutkirch team) Add diaresis
 - Add diaresis using FontForge:
   - Use diaeresis from U+0451, copy into U+0308
-  - Prefereces -> Accents -> Set AccentOffsetPercent to 8 (this is a tyographical property of this font)
+  - Prefereces -> Accents -> Set AccentOffsetPercent to 8 (this is a typographical property of this font)
   - Press Ctrl-A to select all character slots up to U+0100, and press Ctrl-Shift-A
 
 2020-04-30 (Leutkirch team) Change P, R letterforms
