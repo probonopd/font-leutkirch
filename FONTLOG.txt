@@ -22,6 +22,12 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
+2020-04-30 (Leutkirch team) Add diaresis
+- Add diaresis using FontForge:
+  - Use diaeresis from U+0451, copy into U+0308
+  - Prefereces -> Accents -> Set AccentOffsetPercent to 8 (this is a tyographical property of this font)
+  - Press Ctrl-A to select all character slots up to U+0100, and press Ctrl-Shift-A
+
 2020-04-30 (Leutkirch team) Change P, R letterforms
 - Make the Bowl touch the stem in P, R letterforms (U+0050, U+0052, U+0084, U+0420, U+042F, U+044F)
 
