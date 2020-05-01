@@ -624,5 +624,29 @@
     <string>uni02D_0.glif</string>
     <key>phi1</key>
     <string>phi1.glif</string>
+    <key>uni0308</key>
+    <string>uni0308.glif</string>
+    <key>Adieresis</key>
+    <string>A_dieresis.glif</string>
+    <key>Edieresis</key>
+    <string>E_dieresis.glif</string>
+    <key>Idieresis</key>
+    <string>I_dieresis.glif</string>
+    <key>Odieresis</key>
+    <string>O_dieresis.glif</string>
+    <key>Udieresis</key>
+    <string>U_dieresis.glif</string>
+    <key>adieresis</key>
+    <string>adieresis.glif</string>
+    <key>edieresis</key>
+    <string>edieresis.glif</string>
+    <key>idieresis</key>
+    <string>idieresis.glif</string>
+    <key>odieresis</key>
+    <string>odieresis.glif</string>
+    <key>udieresis</key>
+    <string>udieresis.glif</string>
+    <key>ydieresis</key>
+    <string>ydieresis.glif</string>
   </dict>
 </plist>
