@@ -648,5 +648,9 @@
     <string>udieresis.glif</string>
     <key>ydieresis</key>
     <string>ydieresis.glif</string>
+    <key>copyright</key>
+    <string>copyright.glif</string>
+    <key>uni2117</key>
+    <string>uni2117.glif</string>
   </dict>
 </plist>
