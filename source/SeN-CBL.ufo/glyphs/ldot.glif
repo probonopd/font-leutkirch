@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ldot" format="2">
-  <advance width="366"/>
+  <advance width="471"/>
   <unicode hex="0140"/>
   <outline>
-    <contour>
-      <point x="69" y="-13" type="line"/>
-      <point x="178" y="-13" type="line"/>
-      <point x="178" y="726" type="line"/>
-      <point x="69" y="726" type="line"/>
-    </contour>
-    <contour>
-      <point x="204" y="461" type="line"/>
-      <point x="204" y="323" type="line"/>
-      <point x="334" y="323" type="line"/>
-      <point x="334" y="461" type="line"/>
-    </contour>
+    <component base="periodcentered" xOffset="212"/>
+    <component base="l"/>
   </outline>
 </glyph>
