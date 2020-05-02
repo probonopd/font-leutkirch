@@ -22,7 +22,11 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
-2020-04-30 (Leutkirch team) Add diaresis
+2020-05-02 (Leutkirch team) Reconstruct e letterform
+- Reconstruct e letterform from c by adding a crossbar to c,
+  resulting in a characteristic high crossbar.
+
+2020-05-01 (Leutkirch team) Add diaresis
 - Add diaresis using FontForge:
   - Use diaeresis from U+0451, copy into U+0308
   - Prefereces -> Accents -> Set AccentOffsetPercent to 8 (this is a typographical property of this font)
