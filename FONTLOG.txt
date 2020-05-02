@@ -22,7 +22,8 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
-2020-05-02 (Leutkirch team) Reconstruct e letterform
+2020-05-02 (Leutkirch team) Reconstruct e letterform and add (C), (R), (P)
+- Add U+00A9 ©, U+00AE ®, U+2117 ℗
 - Reconstruct e letterform from c by adding a crossbar to c,
   resulting in a characteristic high crossbar
 
