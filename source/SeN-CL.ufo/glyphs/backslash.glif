@@ -1,48 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="backslash" format="2">
-  <advance width="890"/>
+  <advance width="344"/>
   <unicode hex="005C"/>
   <outline>
-    <contour>
-      <point x="835" y="363" type="line"/>
-      <point x="835" y="402" type="line"/>
-      <point x="711" y="402" type="line"/>
-      <point x="760" y="674" type="line"/>
-      <point x="710" y="674" type="line"/>
-      <point x="663" y="402" type="line"/>
-      <point x="534" y="402" type="line"/>
-      <point x="477" y="674" type="line"/>
-      <point x="418" y="674" type="line"/>
-      <point x="361" y="402" type="line"/>
-      <point x="232" y="402" type="line"/>
-      <point x="185" y="674" type="line"/>
-      <point x="135" y="674" type="line"/>
-      <point x="184" y="402" type="line"/>
-      <point x="61" y="402" type="line"/>
-      <point x="61" y="363" type="line"/>
-      <point x="192" y="363" type="line"/>
-      <point x="255" y="14" type="line"/>
-      <point x="321" y="14" type="line"/>
-      <point x="394" y="363" type="line"/>
-      <point x="500" y="363" type="line"/>
-      <point x="573" y="14" type="line"/>
-      <point x="640" y="14" type="line"/>
-      <point x="703" y="363" type="line"/>
-    </contour>
-    <contour>
-      <point x="656" y="363" type="line"/>
-      <point x="605" y="64" type="line"/>
-      <point x="542" y="363" type="line"/>
-    </contour>
-    <contour>
-      <point x="353" y="363" type="line"/>
-      <point x="290" y="64" type="line"/>
-      <point x="239" y="363" type="line"/>
-    </contour>
-    <contour>
-      <point x="402" y="402" type="line"/>
-      <point x="447" y="615" type="line"/>
-      <point x="492" y="402" type="line"/>
-    </contour>
+    <component base="slash" xScale="-1" xOffset="344"/>
   </outline>
 </glyph>

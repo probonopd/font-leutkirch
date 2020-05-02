@@ -258,10 +258,10 @@ feature kern {
 	\uni0004 \uni0005 \uni0006 \uni0007 \uni0008 \uni0009 \uni000A \uni000B \uni000C 
 	\uni000D \uni000E \uni000F \uni0010 \uni0011 \uni0012 \uni0013 \uni0014 \uni0015 
 	\uni0016 \uni0017 \uni0018 \uni0019 \uni001A \uni001B \uni001C \uni001D \uni001E 
-	\uni001F \uni0081 \uni0082 \uni0084 \uni0085 \cent \sterling \yen \logicalnot 
-	\uni00AD \registered \periodcentered \uni02D0 \phi1 \uni0308 \Adieresis 
-	\Edieresis \Idieresis \Odieresis \Udieresis \adieresis \edieresis \idieresis 
-	\odieresis \udieresis \ydieresis \copyright \uni2117 ];
+	\uni001F \uni0081 \uni0082 \uni0083 \uni0084 \uni0085 \cent \sterling \yen 
+	\logicalnot \uni00AD \registered \periodcentered \uni02D0 \phi1 \uni0308 
+	\Adieresis \Edieresis \Idieresis \Odieresis \Udieresis \adieresis \edieresis 
+	\idieresis \odieresis \udieresis \ydieresis \copyright \uni2117 ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;
