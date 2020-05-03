@@ -3,11 +3,11 @@
 <plist version="1.0">
   <dict>
     <key>familyName</key>
-    <string>LeutkirchSans CM</string>
+    <string>Leutkirch Sans</string>
     <key>styleName</key>
-    <string>CM</string>
+    <string>Regular</string>
     <key>styleMapFamilyName</key>
-    <string>LeutkirchSans CM Regular</string>
+    <string>Leutkirch Sans</string>
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>versionMajor</key>
@@ -37,11 +37,11 @@
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
     <key>openTypeNameVersion</key>
-    <string>Version 1.00</string>
+    <string>Version 0.1</string>
     <key>openTypeNameUniqueID</key>
-    <string>LeutkirchSans CM Regular</string>
+    <string>Leutkirch Sans Regular</string>
     <key>openTypeNamePreferredFamilyName</key>
-    <string>LeutkirchSans CM</string>
+    <string>Leutkirch Sans</string>
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>Regular</string>
     <key>openTypeOS2Panose</key>
@@ -146,9 +146,9 @@
       <integer>19</integer>
     </array>
     <key>postscriptFontName</key>
-    <string>SeN-CM</string>
+    <string>LeutkirchSans-Regular</string>
     <key>postscriptFullName</key>
-    <string>LeutkirchSans CM Regular</string>
+    <string>Leutkirch Sans Regular</string>
     <key>postscriptWeightName</key>
     <string>Regular</string>
     <key>postscriptUnderlineThickness</key>
