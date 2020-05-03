@@ -22,6 +22,15 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
+2020-05-02 (Leutkirch team) Fix font metadata
+- Use https://github.com/adobe-type-tools/afdko for otf and ttf generation
+- Add lib.plist generated using 
+  https://github.com/adobe-type-tools/afdko/issues/1130#issuecomment-623180851,
+  thanks Frank Grießhammer
+- Fix fontinfo.plist according to
+  https://github.com/probonopd/font-leutkirch/issues/11#issuecomment-623149694,
+  thanks Fredrick Brennan
+
 2020-05-02 (Leutkirch team) Reconstruct e letterform and add (C), (R), (P)
 - Add U+00A9 ©, U+00AE ®, U+2117 ℗
   from the Enclosed Alphanumerics set in the Korean font
