@@ -3,18 +3,12 @@ dist: bionic
 
 script:
   - sudo apt-get -y install fontforge
-  # OTF
-  - fontforge -c 'f=fontforge.open("source/SeN-CB.ufo"); f.generate("SeN-CB.otf")'
-  # fontforge -c 'f=fontforge.open("source/SeN-CBL.ufo"); f.generate("SeN-CBL.otf")'
-  - fontforge -c 'f=fontforge.open("source/SeN-CEB.ufo"); f.generate("SeN-CEB.otf")'
-  - fontforge -c 'f=fontforge.open("source/SeN-CL.ufo"); f.generate("SeN-CL.otf")'
-  - fontforge -c 'f=fontforge.open("source/SeN-CM.ufo"); f.generate("SeN-CM.otf")'
-  # TTF
-  - fontforge -c 'f=fontforge.open("source/SeN-CB.ufo"); f.generate("SeN-CB.ttf")'
-  # fontforge -c 'f=fontforge.open("source/SeN-CBL.ufo"); f.generate("SeN-CBL.ttf")'
-  - fontforge -c 'f=fontforge.open("source/SeN-CEB.ufo"); f.generate("SeN-CEB.ttf")'
-  - fontforge -c 'f=fontforge.open("source/SeN-CL.ufo"); f.generate("SeN-CL.ttf")'
-  - fontforge -c 'f=fontforge.open("source/SeN-CM.ufo"); f.generate("SeN-CM.ttf")'
+  - |2
+    FILENAMES=$(find source/ -type f -name 'fontinfo.plist' | cut -d "/" -f 2 | cut -d "." -f 1)
+    for FILENAME in $FILENAMES; do
+      fontforge -c "f=fontforge.open(\"source/${FILENAME}.ufo\"); f.generate(\"${FILENAME}.otf\")"
+      fontforge -c "f=fontforge.open(\"source/${FILENAME}.ufo\"); f.generate(\"${FILENAME}.ttf\")"
+    done
 
 after_success:
   - wget -c https://github.com/probonopd/uploadtool/raw/master/upload.sh
