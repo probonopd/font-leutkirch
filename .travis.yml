@@ -2,7 +2,7 @@ language: minimal
 dist: bionic
 
 script:
-  - sudo apt-get -y install python3-pip python3-setuptools # fontforge
+  - sudo apt-get -y install python3-pip python3-setuptools python3-wheel # fontforge
   - sudo pip3 install afdko
   # |2
   # FILENAMES=$(find source/ -type f -name 'fontinfo.plist' | cut -d "/" -f 2 | cut -d "." -f 1)
