@@ -2,17 +2,24 @@ language: minimal
 dist: bionic
 
 script:
-  - sudo apt-get -y install fontforge
+  - sudo apt-get -y install fontforge pip3
+  - sudo pip3 install afdko
+  # |2
+  # FILENAMES=$(find source/ -type f -name 'fontinfo.plist' | cut -d "/" -f 2 | cut -d "." -f 1)
+  # for FILENAME in $FILENAMES; do
+  #   fontforge -c "f=fontforge.open(\"source/${FILENAME}.ufo\"); f.generate(\"${FILENAME}.otf\")"
+  #   fontforge -c "f=fontforge.open(\"source/${FILENAME}.ufo\"); f.generate(\"${FILENAME}.ttf\")"
+  # done
   - |2
-    FILENAMES=$(find source/ -type f -name 'fontinfo.plist' | cut -d "/" -f 2 | cut -d "." -f 1)
+    FILENAMES=$(find source/ -type f -name 'lib.plist' | cut -d "/" -f 2 | cut -d "." -f 1)
     for FILENAME in $FILENAMES; do
-      fontforge -c "f=fontforge.open(\"source/${FILENAME}.ufo\"); f.generate(\"${FILENAME}.otf\")"
-      fontforge -c "f=fontforge.open(\"source/${FILENAME}.ufo\"); f.generate(\"${FILENAME}.ttf\")"
+      makeotf -f "source/${FILENAME}.ufo"
+      otf2ttf "source/${FILENAME}.otf"
     done
 
 after_success:
   - wget -c https://github.com/probonopd/uploadtool/raw/master/upload.sh
-  - bash upload.sh *.otf *.ttf
+  - bash upload.sh source/*.otf source/*.ttf
   
 branches:
   except:
