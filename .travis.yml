@@ -13,7 +13,7 @@ script:
   - |2
     FILENAMES=$(find source/ -type f -name 'lib.plist' | cut -d "/" -f 2 | cut -d "." -f 1)
     for FILENAME in $FILENAMES; do
-      makeotf -f "source/${FILENAME}.ufo"
+      makeotf -r -f "source/${FILENAME}.ufo"
       otf2ttf "source/${FILENAME}.otf"
     done
 
