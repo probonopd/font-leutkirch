@@ -13,9 +13,7 @@
     <key>versionMajor</key>
     <integer>1</integer>
     <key>copyright</key>
-    <string>Copyright 2019 The Leutkirch Project Authors (https://github.com/probonopd/font-leutkirch/). Portions Copyright 2011 Seoul Metropolitan Government. Based on a font designed by TypoDesign lab.inc.</string>
-    <key>trademark</key>
-    <string>SeoulNamsan CM is a registered trademark of TypoDesign lab.inc.</string>
+    <string>Copyright 2020 The Leutkirch Project Authors (https://github.com/probonopd/font-leutkirch/). Portions Copyright 2011 Seoul Metropolitan Government. Based on a font designed by TypoDesign lab.inc.</string>
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>capHeight</key>
