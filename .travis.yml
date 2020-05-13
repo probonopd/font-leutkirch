@@ -16,10 +16,14 @@ script:
       makeotf -r -f "source/${FILENAME}.ufo"
       otf2ttf "source/${FILENAME}.otf"
     done
+  - cd source
+  - zip -r leutkirch-otf.zip . -i *.otf
+  - zip -r leutkirch-ttf.zip . -i *.ttf
+  - cd -
 
 after_success:
   - wget -c https://github.com/probonopd/uploadtool/raw/master/upload.sh
-  - bash upload.sh source/*.otf source/*.ttf
+  - bash upload.sh source/*.zip
   
 branches:
   except:
