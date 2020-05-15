@@ -72,15 +72,15 @@
       <point x="125" y="233"/>
       <point x="124" y="248"/>
       <point x="124" y="262" type="curve" smooth="yes"/>
-      <point x="124" y="263.004"/>
-      <point x="124.004" y="264.004"/>
-      <point x="124.011" y="265" type="curve" smooth="yes"/>
+      <point x="124" y="263"/>
+      <point x="124" y="264"/>
+      <point x="124" y="265" type="curve" smooth="yes"/>
       <point x="436" y="265" type="line"/>
     </contour>
     <contour>
-      <point x="133.023" y="338" type="line"/>
-      <point x="139.147" y="360.535"/>
-      <point x="148.43" y="379.911"/>
+      <point x="133" y="338" type="line"/>
+      <point x="139" y="361"/>
+      <point x="148" y="380"/>
       <point x="161" y="396" type="curve" smooth="yes"/>
       <point x="185" y="427"/>
       <point x="214" y="443"/>

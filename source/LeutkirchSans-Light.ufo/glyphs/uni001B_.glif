@@ -2,4 +2,5 @@
 <glyph name="uni001B" format="2">
   <advance width="330"/>
   <unicode hex="001B"/>
+  <outline/>
 </glyph>
