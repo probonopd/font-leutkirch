@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Xi" format="2">
-  <advance width="499"/>
-  <unicode hex="039E"/>
-  <outline>
-    <contour>
-      <point x="455" y="0" type="line"/>
-      <point x="455" y="79" type="line"/>
-      <point x="35" y="79" type="line"/>
-      <point x="35" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="43" y="713" type="line"/>
-      <point x="43" y="634" type="line"/>
-      <point x="447" y="634" type="line"/>
-      <point x="447" y="713" type="line"/>
-    </contour>
-    <contour>
-      <point x="437" y="334" type="line"/>
-      <point x="437" y="412" type="line"/>
-      <point x="54" y="412" type="line"/>
-      <point x="54" y="334" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="039E"/>
+	<advance width="499"/>
+	<outline>
+		<contour>
+			<point x="455" y="0" type="line"/>
+			<point x="455" y="79" type="line"/>
+			<point x="35" y="79" type="line"/>
+			<point x="35" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="43" y="713" type="line"/>
+			<point x="43" y="634" type="line"/>
+			<point x="447" y="634" type="line"/>
+			<point x="447" y="713" type="line"/>
+		</contour>
+		<contour>
+			<point x="437" y="334" type="line"/>
+			<point x="437" y="412" type="line"/>
+			<point x="54" y="412" type="line"/>
+			<point x="54" y="334" type="line"/>
+		</contour>
+	</outline>
 </glyph>

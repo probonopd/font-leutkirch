@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gamma" format="2">
-  <advance width="458"/>
-  <unicode hex="03B3"/>
-  <outline>
-    <contour>
-      <point x="265" y="25" type="line"/>
-      <point x="441" y="498" type="line"/>
-      <point x="371" y="498" type="line"/>
-      <point x="231" y="108" type="line"/>
-      <point x="91" y="498" type="line"/>
-      <point x="21" y="498" type="line"/>
-      <point x="197" y="25" type="line"/>
-      <point x="197" y="-160" type="line"/>
-      <point x="265" y="-160" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="03B3"/>
+	<advance width="458"/>
+	<outline>
+		<contour>
+			<point x="265" y="25" type="line"/>
+			<point x="441" y="498" type="line"/>
+			<point x="371" y="498" type="line"/>
+			<point x="231" y="108" type="line"/>
+			<point x="91" y="498" type="line"/>
+			<point x="21" y="498" type="line"/>
+			<point x="197" y="25" type="line"/>
+			<point x="197" y="-160" type="line"/>
+			<point x="265" y="-160" type="line"/>
+		</contour>
+	</outline>
 </glyph>

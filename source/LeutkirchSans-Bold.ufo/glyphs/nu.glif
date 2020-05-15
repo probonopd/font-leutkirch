@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nu" format="2">
-  <advance width="468"/>
-  <unicode hex="03BD"/>
-  <outline>
-    <contour>
-      <point x="269" y="0" type="line"/>
-      <point x="459" y="504" type="line"/>
-      <point x="374" y="504" type="line"/>
-      <point x="234" y="123" type="line"/>
-      <point x="94" y="504" type="line"/>
-      <point x="9" y="504" type="line"/>
-      <point x="199" y="0" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="03BD"/>
+	<advance width="468"/>
+	<outline>
+		<contour>
+			<point x="269" y="0" type="line"/>
+			<point x="459" y="504" type="line"/>
+			<point x="374" y="504" type="line"/>
+			<point x="234" y="123" type="line"/>
+			<point x="94" y="504" type="line"/>
+			<point x="9" y="504" type="line"/>
+			<point x="199" y="0" type="line"/>
+		</contour>
+	</outline>
 </glyph>

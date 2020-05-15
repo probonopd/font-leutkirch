@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pi" format="2">
-  <advance width="517"/>
-  <unicode hex="03C0"/>
-  <outline>
-    <contour>
-      <point x="113" y="0" type="line"/>
-      <point x="193" y="0" type="line"/>
-      <point x="193" y="433" type="line"/>
-      <point x="323" y="433" type="line"/>
-      <point x="323" y="0" type="line"/>
-      <point x="403" y="0" type="line"/>
-      <point x="403" y="433" type="line"/>
-      <point x="497" y="433" type="line"/>
-      <point x="497" y="504" type="line"/>
-      <point x="20" y="504" type="line"/>
-      <point x="20" y="433" type="line"/>
-      <point x="113" y="433" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="03C0"/>
+	<advance width="517"/>
+	<outline>
+		<contour>
+			<point x="113" y="0" type="line"/>
+			<point x="193" y="0" type="line"/>
+			<point x="193" y="433" type="line"/>
+			<point x="323" y="433" type="line"/>
+			<point x="323" y="0" type="line"/>
+			<point x="403" y="0" type="line"/>
+			<point x="403" y="433" type="line"/>
+			<point x="497" y="433" type="line"/>
+			<point x="497" y="504" type="line"/>
+			<point x="20" y="504" type="line"/>
+			<point x="20" y="433" type="line"/>
+			<point x="113" y="433" type="line"/>
+		</contour>
+	</outline>
 </glyph>

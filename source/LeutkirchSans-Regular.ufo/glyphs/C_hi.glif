@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Chi" format="2">
-  <advance width="542"/>
-  <unicode hex="03A7"/>
-  <outline>
-    <contour>
-      <point x="26" y="6" type="line"/>
-      <point x="102" y="6" type="line"/>
-      <point x="269" y="302" type="line"/>
-      <point x="436" y="6" type="line"/>
-      <point x="513" y="6" type="line"/>
-      <point x="307" y="374" type="line"/>
-      <point x="493" y="707" type="line"/>
-      <point x="415" y="707" type="line"/>
-      <point x="269" y="445" type="line"/>
-      <point x="121" y="707" type="line"/>
-      <point x="44" y="707" type="line"/>
-      <point x="231" y="374" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="03A7"/>
+	<advance width="542"/>
+	<outline>
+		<contour>
+			<point x="26" y="6" type="line"/>
+			<point x="102" y="6" type="line"/>
+			<point x="269" y="302" type="line"/>
+			<point x="436" y="6" type="line"/>
+			<point x="513" y="6" type="line"/>
+			<point x="307" y="374" type="line"/>
+			<point x="493" y="707" type="line"/>
+			<point x="415" y="707" type="line"/>
+			<point x="269" y="445" type="line"/>
+			<point x="121" y="707" type="line"/>
+			<point x="44" y="707" type="line"/>
+			<point x="231" y="374" type="line"/>
+		</contour>
+	</outline>
 </glyph>

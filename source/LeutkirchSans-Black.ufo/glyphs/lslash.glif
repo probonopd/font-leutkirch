@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lslash" format="2">
-  <advance width="450"/>
-  <unicode hex="0142"/>
-  <outline>
-    <contour>
-      <point x="157" y="-13" type="line"/>
-      <point x="266" y="-13" type="line"/>
-      <point x="266" y="377" type="line"/>
-      <point x="443" y="564" type="line"/>
-      <point x="381" y="632" type="line"/>
-      <point x="266" y="511" type="line"/>
-      <point x="266" y="726" type="line"/>
-      <point x="157" y="726" type="line"/>
-      <point x="157" y="396" type="line"/>
-      <point x="-3" y="227" type="line"/>
-      <point x="63" y="162" type="line"/>
-      <point x="157" y="261" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="0142"/>
+	<advance width="450"/>
+	<outline>
+		<contour>
+			<point x="157" y="-13" type="line"/>
+			<point x="266" y="-13" type="line"/>
+			<point x="266" y="377" type="line"/>
+			<point x="443" y="564" type="line"/>
+			<point x="381" y="632" type="line"/>
+			<point x="266" y="511" type="line"/>
+			<point x="266" y="726" type="line"/>
+			<point x="157" y="726" type="line"/>
+			<point x="157" y="396" type="line"/>
+			<point x="-3" y="227" type="line"/>
+			<point x="63" y="162" type="line"/>
+			<point x="157" y="261" type="line"/>
+		</contour>
+	</outline>
 </glyph>

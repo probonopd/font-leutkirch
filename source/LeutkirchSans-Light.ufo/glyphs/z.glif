@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="z" format="2">
-  <advance width="420"/>
-  <unicode hex="007A"/>
-  <outline>
-    <contour>
-      <point x="378" y="14" type="line"/>
-      <point x="378" y="59" type="line"/>
-      <point x="101" y="59" type="line"/>
-      <point x="366" y="435" type="line"/>
-      <point x="366" y="490" type="line"/>
-      <point x="59" y="490" type="line"/>
-      <point x="59" y="445" type="line"/>
-      <point x="310" y="445" type="line"/>
-      <point x="42" y="63" type="line"/>
-      <point x="42" y="14" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="007A"/>
+	<advance width="420"/>
+	<outline>
+		<contour>
+			<point x="378" y="14" type="line"/>
+			<point x="378" y="59" type="line"/>
+			<point x="101" y="59" type="line"/>
+			<point x="366" y="435" type="line"/>
+			<point x="366" y="490" type="line"/>
+			<point x="59" y="490" type="line"/>
+			<point x="59" y="445" type="line"/>
+			<point x="310" y="445" type="line"/>
+			<point x="42" y="63" type="line"/>
+			<point x="42" y="14" type="line"/>
+		</contour>
+	</outline>
 </glyph>

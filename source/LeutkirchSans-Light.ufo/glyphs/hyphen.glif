@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hyphen" format="2">
-  <advance width="379"/>
-  <unicode hex="002D"/>
-  <outline>
-    <contour>
-      <point x="326" y="333" type="line"/>
-      <point x="326" y="389" type="line"/>
-      <point x="51" y="389" type="line"/>
-      <point x="51" y="333" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="002D"/>
+	<advance width="379"/>
+	<outline>
+		<contour>
+			<point x="326" y="333" type="line"/>
+			<point x="326" y="389" type="line"/>
+			<point x="51" y="389" type="line"/>
+			<point x="51" y="333" type="line"/>
+		</contour>
+	</outline>
 </glyph>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0410" format="2">
-  <advance width="559"/>
-  <unicode hex="0410"/>
-  <outline>
-    <contour>
-      <point x="13" y="6" type="line"/>
-      <point x="82" y="6" type="line"/>
-      <point x="151" y="221" type="line"/>
-      <point x="392" y="221" type="line"/>
-      <point x="458" y="6" type="line"/>
-      <point x="535" y="6" type="line"/>
-      <point x="315" y="707" type="line"/>
-      <point x="232" y="707" type="line"/>
-    </contour>
-    <contour>
-      <point x="271" y="624" type="line"/>
-      <point x="372" y="287" type="line"/>
-      <point x="169" y="287" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="0410"/>
+	<advance width="559"/>
+	<outline>
+		<contour>
+			<point x="13" y="6" type="line"/>
+			<point x="82" y="6" type="line"/>
+			<point x="151" y="221" type="line"/>
+			<point x="392" y="221" type="line"/>
+			<point x="458" y="6" type="line"/>
+			<point x="535" y="6" type="line"/>
+			<point x="315" y="707" type="line"/>
+			<point x="232" y="707" type="line"/>
+		</contour>
+		<contour>
+			<point x="271" y="624" type="line"/>
+			<point x="372" y="287" type="line"/>
+			<point x="169" y="287" type="line"/>
+		</contour>
+	</outline>
 </glyph>

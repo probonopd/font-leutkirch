@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eta" format="2">
-  <advance width="598"/>
-  <unicode hex="0397"/>
-  <outline>
-    <contour>
-      <point x="90" y="14" type="line"/>
-      <point x="145" y="14" type="line"/>
-      <point x="145" y="346" type="line"/>
-      <point x="445" y="346" type="line"/>
-      <point x="445" y="14" type="line"/>
-      <point x="501" y="14" type="line"/>
-      <point x="501" y="699" type="line"/>
-      <point x="445" y="699" type="line"/>
-      <point x="445" y="396" type="line"/>
-      <point x="145" y="396" type="line"/>
-      <point x="145" y="699" type="line"/>
-      <point x="90" y="699" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="0397"/>
+	<advance width="598"/>
+	<outline>
+		<contour>
+			<point x="90" y="14" type="line"/>
+			<point x="145" y="14" type="line"/>
+			<point x="145" y="346" type="line"/>
+			<point x="445" y="346" type="line"/>
+			<point x="445" y="14" type="line"/>
+			<point x="501" y="14" type="line"/>
+			<point x="501" y="699" type="line"/>
+			<point x="445" y="699" type="line"/>
+			<point x="445" y="396" type="line"/>
+			<point x="145" y="396" type="line"/>
+			<point x="145" y="699" type="line"/>
+			<point x="90" y="699" type="line"/>
+		</contour>
+	</outline>
 </glyph>

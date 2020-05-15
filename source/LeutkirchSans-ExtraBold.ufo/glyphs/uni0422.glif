@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0422" format="2">
-  <advance width="480"/>
-  <unicode hex="0422"/>
-  <outline>
-    <contour>
-      <point x="190" y="-8" type="line"/>
-      <point x="290" y="-8" type="line"/>
-      <point x="290" y="626" type="line"/>
-      <point x="468" y="626" type="line"/>
-      <point x="468" y="721" type="line"/>
-      <point x="12" y="721" type="line"/>
-      <point x="12" y="626" type="line"/>
-      <point x="190" y="626" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="0422"/>
+	<advance width="480"/>
+	<outline>
+		<contour>
+			<point x="190" y="-8" type="line"/>
+			<point x="290" y="-8" type="line"/>
+			<point x="290" y="626" type="line"/>
+			<point x="468" y="626" type="line"/>
+			<point x="468" y="721" type="line"/>
+			<point x="12" y="721" type="line"/>
+			<point x="12" y="626" type="line"/>
+			<point x="190" y="626" type="line"/>
+		</contour>
+	</outline>
 </glyph>
