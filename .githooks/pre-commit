@@ -1,0 +1,15 @@
+#!/bin/sh
+
+# A hook script to verify what is about to be committed.
+# Called by "git commit" with no arguments.
+#
+# Uses bash syntax to call arguments as needed.
+#
+# To enable the hooks in this directory, run
+# git config --local core.hooksPath .githooks/
+
+set -e
+
+DIR=$(readlink -f $(git rev-parse --git-dir)/../source)
+find "${DIR}" -maxdepth 1 -name '*.ufo' -exec ufonormalizer {} \;
+
