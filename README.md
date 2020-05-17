@@ -9,6 +9,12 @@ Leutkirch is an open font designed by the community in the memory of German font
 Font sources are published in a public repository and an open workflow is used for building, testing and releasing.   
 You can contribute and report issues but please don't use this in production yet.
 
+## Blog
+
+There is a blog describing the genesis of this font:
+
+* [“Font Mikado”: Making a libre typeface and learning a lot](https://medium.com/@probonopd/font-mikado-making-a-libre-typeface-and-learning-a-lot-e5e200eead5b)
+
 ## You are invited to contribute
 
 This libre font is developed collaboratively by the community. Your contributions are highly welcome. Please check the [issue tracker](../../issues) to start getting involved. You can contribute by opening new issues, adding insight to existing issues, and by sending pull requests.
