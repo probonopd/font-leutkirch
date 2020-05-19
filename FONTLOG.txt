@@ -22,6 +22,12 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
+2020-05-19 Add extrema and reduce number of points
+- In FontForge, select point(s) that are not essential for describing
+  the shape and press Ctrl-M (“Merge”)
+- Some manual corrections had to be made in characters like S, s, ~
+  by editing the control points
+
 2020-05-02 (Leutkirch team) Fix font metadata
 - Use https://github.com/adobe-type-tools/afdko for otf and ttf generation
 - Add lib.plist generated using 

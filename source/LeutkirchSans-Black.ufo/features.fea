@@ -231,37 +231,37 @@ feature kern {
       lookup kernHorizontalKerninginLatinlookup0;
 } kern;
 
-@GDEF_Simple = [\space \exclam \quotedbl \numbersign \dollar \percent \ampersand 
-	\quotesingle \parenleft \parenright \asterisk \plus \comma \hyphen \period 
-	\slash \zero \one \two \three \four \five \six \seven \eight \nine \colon \semicolon 
-	\less \equal \greater \question \at \A \B \C \D \E \F \G \H \I \J \K \L \M \N \O \P \Q \R \S \T 
-	\U \V \W \X \Y \Z \bracketleft \backslash \bracketright \asciicircum \underscore 
-	\grave \a \b \c \d \e \f \g \h \i \j \k \l \m \n \o \p \q \r \s \t \u \v \w \x \y \z \braceleft \bar 
-	\braceright \asciitilde \dieresis \plusminus \multiply \divide \degree \section 
-	\guillemotleft \guillemotright \acute \tilde \caron \breve \hungarumlaut \ring 
-	\dotaccent \cedilla \ogonek \exclamdown \questiondown \currency \paragraph 
-	\Alpha \Beta \Gamma \uni0394 \Epsilon \Zeta \Eta \Theta \Iota \Kappa \Lambda \Mu \Nu 
-	\Xi \Omicron \Pi \Rho \Sigma \Tau \Upsilon \Phi \Chi \Psi \uni03A9 \alpha \beta 
-	\gamma \delta \epsilon \zeta \eta \theta \iota \kappa \lambda \uni03BC \nu \xi 
-	\omicron \pi \rho \sigma \tau \upsilon \phi \chi \psi \omega \AE \Eth \ordfeminine 
-	\Hbar \IJ \Ldot \Lslash \Oslash \OE \ordmasculine \Thorn \Tbar \Eng \onehalf 
-	\onequarter \threequarters \ae \dcroat \eth \hbar \dotlessi \ij \kgreenlandic 
-	\ldot \lslash \oslash \oe \germandbls \thorn \tbar \eng \napostrophe \uni00B9 
-	\uni00B2 \uni00B3 \uni0410 \uni0411 \uni0412 \uni0413 \uni0414 \uni0415 \uni0401 
-	\uni0416 \uni0417 \uni0418 \uni0419 \uni041A \uni041B \uni041C \uni041D \uni041E 
-	\uni041F \uni0420 \uni0421 \uni0422 \uni0423 \uni0424 \uni0425 \uni0426 \uni0427 
-	\uni0428 \uni0429 \uni042A \uni042B \uni042C \uni042D \uni042E \uni042F \uni0430 
-	\uni0431 \uni0432 \uni0433 \uni0434 \uni0435 \uni0451 \uni0436 \uni0437 \uni0438 
-	\uni0439 \uni043A \uni043B \uni043C \uni043D \uni043E \uni043F \uni0440 \uni0441 
-	\uni0442 \uni0443 \uni0444 \uni0445 \uni0446 \uni0447 \uni0448 \uni0449 \uni044A 
-	\uni044B \uni044C \uni044D \uni044E \uni044F \uni02BC \uni0001 \uni0002 \uni0003 
-	\uni0004 \uni0005 \uni0006 \uni0007 \uni0008 \uni0009 \uni000A \uni000B \uni000C 
-	\uni000D \uni000E \uni000F \uni0010 \uni0011 \uni0012 \uni0013 \uni0014 \uni0015 
-	\uni0016 \uni0017 \uni0018 \uni0019 \uni001A \uni001B \uni001C \uni001D \uni001E 
-	\uni001F \uni0081 \uni0082 \uni0083 \uni0084 \uni0085 \cent \sterling \yen 
-	\logicalnot \uni00AD \registered \periodcentered \uni02D0 \phi1 \uni0308 
-	\Adieresis \Edieresis \Idieresis \Odieresis \Udieresis \adieresis \edieresis 
-	\idieresis \odieresis \udieresis \ydieresis \copyright \uni2117 ];
+@GDEF_Simple = [\A \AE \Adieresis \Alpha \B \Beta \C \Chi \D \E \Edieresis \Eng \Epsilon 
+	\Eta \Eth \F \G \Gamma \H \Hbar \I \IJ \Idieresis \Iota \J \K \Kappa \L \Lambda \Ldot 
+	\Lslash \M \Mu \N \Nu \O \OE \Odieresis \Omicron \Oslash \P \Phi \Pi \Psi \Q \R \Rho \S 
+	\Sigma \T \Tau \Tbar \Theta \Thorn \U \Udieresis \Upsilon \V \W \X \Xi \Y \Z \Zeta \a 
+	\acute \adieresis \ae \alpha \ampersand \asciicircum \asciitilde \asterisk \at \b 
+	\backslash \bar \beta \braceleft \braceright \bracketleft \bracketright \breve 
+	\c \caron \cedilla \cent \chi \colon \comma \copyright \currency \d \dcroat \degree 
+	\delta \dieresis \divide \dollar \dotaccent \dotlessi \e \edieresis \eight \eng 
+	\epsilon \equal \eta \eth \exclam \exclamdown \f \five \four \g \gamma \germandbls 
+	\grave \greater \guillemotleft \guillemotright \h \hbar \hungarumlaut \hyphen \i 
+	\idieresis \ij \iota \j \k \kappa \kgreenlandic \l \lambda \ldot \less \logicalnot 
+	\lslash \m \multiply \n \napostrophe \nine \nu \numbersign \o \odieresis \oe 
+	\ogonek \omega \omicron \one \onehalf \onequarter \ordfeminine \ordmasculine 
+	\oslash \p \paragraph \parenleft \parenright \percent \period \periodcentered 
+	\phi \phi1 \pi \plus \plusminus \psi \q \question \questiondown \quotedbl 
+	\quotesingle \r \registered \rho \ring \s \section \semicolon \seven \sigma \six 
+	\slash \space \sterling \t \tau \tbar \theta \thorn \three \threequarters \tilde 
+	\two \u \udieresis \underscore \uni0001 \uni0002 \uni0003 \uni0004 \uni0005 
+	\uni0006 \uni0007 \uni0008 \uni0009 \uni000A \uni000B \uni000C \uni000D \uni000E 
+	\uni000F \uni0010 \uni0011 \uni0012 \uni0013 \uni0014 \uni0015 \uni0016 \uni0017 
+	\uni0018 \uni0019 \uni001A \uni001B \uni001C \uni001D \uni001E \uni001F \uni0081 
+	\uni0082 \uni0083 \uni0084 \uni0085 \uni00AD \uni00B2 \uni00B3 \uni00B9 \uni02BC 
+	\uni02D0 \uni0308 \uni0394 \uni03A9 \uni03BC \uni0401 \uni0410 \uni0411 \uni0412 
+	\uni0413 \uni0414 \uni0415 \uni0416 \uni0417 \uni0418 \uni0419 \uni041A \uni041B 
+	\uni041C \uni041D \uni041E \uni041F \uni0420 \uni0421 \uni0422 \uni0423 \uni0424 
+	\uni0425 \uni0426 \uni0427 \uni0428 \uni0429 \uni042A \uni042B \uni042C \uni042D 
+	\uni042E \uni042F \uni0430 \uni0431 \uni0432 \uni0433 \uni0434 \uni0435 \uni0436 
+	\uni0437 \uni0438 \uni0439 \uni043A \uni043B \uni043C \uni043D \uni043E \uni043F 
+	\uni0440 \uni0441 \uni0442 \uni0443 \uni0444 \uni0445 \uni0446 \uni0447 \uni0448 
+	\uni0449 \uni044A \uni044B \uni044C \uni044D \uni044E \uni044F \uni0451 \uni2117 
+	\upsilon \v \w \x \xi \y \ydieresis \yen \z \zero \zeta ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;

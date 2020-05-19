@@ -3,7 +3,7 @@
 <plist version="1.0">
 	<dict>
 		<key>creator</key>
-		<string>org.sil.scripts.pysilfont</string>
+		<string>net.GitHub.FontForge</string>
 		<key>formatVersion</key>
 		<integer>3</integer>
 	</dict>

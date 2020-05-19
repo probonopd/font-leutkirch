@@ -14,11 +14,8 @@
 			<point x="17" y="431" type="line"/>
 			<point x="93" y="431" type="line"/>
 			<point x="93" y="116" type="line" smooth="yes"/>
-			<point x="93" y="74"/>
-			<point x="104" y="43"/>
-			<point x="127" y="22" type="curve" smooth="yes"/>
-			<point x="149" y="0"/>
-			<point x="183" y="-11"/>
+			<point x="93" y="30.0674"/>
+			<point x="141.212" y="-11"/>
 			<point x="229" y="-11" type="curve" smooth="yes"/>
 			<point x="257" y="-11"/>
 			<point x="282" y="-9"/>
@@ -27,18 +24,9 @@
 			<point x="279" y="65"/>
 			<point x="259" y="63"/>
 			<point x="244" y="63" type="curve" smooth="yes"/>
-			<point x="229" y="63"/>
-			<point x="217" y="65"/>
-			<point x="209" y="70" type="curve" smooth="yes"/>
-			<point x="199" y="74"/>
-			<point x="193" y="80"/>
-			<point x="189" y="90" type="curve" smooth="yes"/>
-			<point x="183" y="102"/>
-			<point x="181" y="114"/>
+			<point x="200.276" y="63"/>
+			<point x="181" y="85.7711"/>
 			<point x="181" y="127" type="curve" smooth="yes"/>
-			<point x="181" y="139"/>
-			<point x="181" y="153"/>
-			<point x="181" y="169" type="curve" smooth="yes"/>
 			<point x="181" y="431" type="line"/>
 		</contour>
 	</outline>
