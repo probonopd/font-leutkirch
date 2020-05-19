@@ -12,4 +12,4 @@ set -e
 
 DIR=$(readlink -f $(git rev-parse --git-dir)/../source)
 find "${DIR}" -maxdepth 1 -name '*.ufo' -exec ufonormalizer {} \;
-
+find "${DIR}" -maxdepth 1 -name '*.ufo' -exec "${DIR}"/glyphorder.py {} \;
