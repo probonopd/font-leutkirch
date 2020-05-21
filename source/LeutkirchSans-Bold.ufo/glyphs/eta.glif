@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eta" format="2">
 	<unicode hex="03B7"/>
-	<advance width="516"/>
+	<advance width="521"/>
 	<outline>
 		<contour>
 			<point x="64" y="0" type="line"/>

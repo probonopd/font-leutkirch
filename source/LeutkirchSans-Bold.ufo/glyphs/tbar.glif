@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tbar" format="2">
 	<unicode hex="0167"/>
-	<advance width="343"/>
+	<advance width="346"/>
 	<outline>
 		<contour>
 			<point x="93" y="253" type="line"/>

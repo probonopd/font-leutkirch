@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hungarumlaut" format="2">
 	<unicode hex="02DD"/>
-	<advance width="871"/>
+	<advance width="897"/>
 	<outline>
 		<contour>
 			<point x="461" y="744" type="line"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iota" format="2">
 	<unicode hex="03B9"/>
-	<advance width="299"/>
+	<advance width="304"/>
 	<outline>
 		<contour>
 			<point x="154" y="512" type="line"/>

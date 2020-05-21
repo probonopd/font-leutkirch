@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Sigma" format="2">
 	<unicode hex="03A3"/>
-	<advance width="450"/>
+	<advance width="459"/>
 	<outline>
 		<contour>
 			<point x="23" y="635" type="line"/>

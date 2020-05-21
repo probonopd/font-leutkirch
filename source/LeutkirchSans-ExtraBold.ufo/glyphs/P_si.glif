@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Psi" format="2">
 	<unicode hex="03A8"/>
-	<advance width="635"/>
+	<advance width="647"/>
 	<outline>
 		<contour>
 			<point x="548" y="721" type="line"/>

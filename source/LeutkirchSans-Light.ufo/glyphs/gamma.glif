@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gamma" format="2">
 	<unicode hex="03B3"/>
-	<advance width="476"/>
+	<advance width="471"/>
 	<outline>
 		<contour>
 			<point x="257" y="26" type="line"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Phi" format="2">
 	<unicode hex="03A6"/>
-	<advance width="705"/>
+	<advance width="719"/>
 	<outline>
 		<contour>
 			<point x="277" y="635" type="line"/>

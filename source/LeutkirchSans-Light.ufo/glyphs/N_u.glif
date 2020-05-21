@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Nu" format="2">
 	<unicode hex="039D"/>
-	<advance width="631"/>
+	<advance width="624"/>
 	<outline>
 		<contour>
 			<point x="90" y="14" type="line"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Epsilon" format="2">
 	<unicode hex="0395"/>
-	<advance width="499"/>
+	<advance width="494"/>
 	<outline>
 		<contour>
 			<point x="92" y="14" type="line"/>

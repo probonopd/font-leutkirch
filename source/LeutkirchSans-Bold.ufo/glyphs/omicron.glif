@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omicron" format="2">
 	<unicode hex="03BF"/>
-	<advance width="530"/>
+	<advance width="535"/>
 	<outline>
 		<contour>
 			<point x="250" y="-11" type="curve" smooth="yes"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="delta" format="2">
 	<unicode hex="03B4"/>
-	<advance width="498"/>
+	<advance width="512"/>
 	<outline>
 		<contour>
 			<point x="234" y="-24" type="curve" smooth="yes"/>
