@@ -5,4 +5,41 @@
 	<outline>
 		<component base="O"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>-5</integer>
+						<key>width</key>
+						<integer>65</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>655</integer>
+						<key>width</key>
+						<integer>65</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>41</integer>
+						<key>width</key>
+						<integer>77</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>532</integer>
+						<key>width</key>
+						<integer>77</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

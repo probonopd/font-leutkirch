@@ -50,4 +50,53 @@
 			<point x="367" y="484" type="curve"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>284</integer>
+						<key>width</key>
+						<integer>96</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>484</integer>
+						<key>width</key>
+						<integer>89</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>643</integer>
+						<key>width</key>
+						<integer>96</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>133</integer>
+						<key>width</key>
+						<integer>113</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>142</integer>
+						<key>width</key>
+						<integer>118</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>367</integer>
+						<key>width</key>
+						<integer>109</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

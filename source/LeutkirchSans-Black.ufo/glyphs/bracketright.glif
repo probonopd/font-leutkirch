@@ -14,4 +14,20 @@
 			<point x="12" y="-155" type="line"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>12</integer>
+						<key>width</key>
+						<integer>221</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

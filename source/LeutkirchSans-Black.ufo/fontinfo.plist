@@ -18,13 +18,13 @@
 		<key>italicAngle</key>
 		<integer>0</integer>
 		<key>openTypeHeadCreated</key>
-		<string>2020/05/18 13:27:45</string>
+		<string>2020/05/21 06:42:59</string>
 		<key>openTypeHheaAscender</key>
 		<integer>831</integer>
 		<key>openTypeHheaDescender</key>
 		<integer>-169</integer>
 		<key>openTypeHheaLineGap</key>
-		<integer>0</integer>
+		<integer>240</integer>
 		<key>openTypeNamePreferredFamilyName</key>
 		<string>Leutkirch Sans</string>
 		<key>openTypeNamePreferredSubfamilyName</key>
@@ -87,7 +87,7 @@
 		<key>openTypeOS2TypoDescender</key>
 		<integer>-169</integer>
 		<key>openTypeOS2TypoLineGap</key>
-		<integer>0</integer>
+		<integer>240</integer>
 		<key>openTypeOS2UnicodeRanges</key>
 		<array>
 			<integer>0</integer>
@@ -134,10 +134,30 @@
 		<integer>831</integer>
 		<key>openTypeOS2WinDescent</key>
 		<integer>169</integer>
+		<key>postscriptBlueFuzz</key>
+		<integer>1</integer>
+		<key>postscriptBlueScale</key>
+		<real>0.039625</real>
+		<key>postscriptBlueShift</key>
+		<integer>7</integer>
+		<key>postscriptBlueValues</key>
+		<array>
+			<integer>-33</integer>
+			<integer>-13</integer>
+			<integer>517</integer>
+			<integer>532</integer>
+			<integer>726</integer>
+			<integer>742</integer>
+		</array>
 		<key>postscriptFontName</key>
 		<string>LeutkirchSans-Black</string>
 		<key>postscriptFullName</key>
 		<string>Leutkirch Sans Black</string>
+		<key>postscriptOtherBlues</key>
+		<array>
+			<integer>-168</integer>
+			<integer>-168</integer>
+		</array>
 		<key>postscriptUnderlinePosition</key>
 		<integer>-181</integer>
 		<key>postscriptUnderlineThickness</key>

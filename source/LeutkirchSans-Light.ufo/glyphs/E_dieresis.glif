@@ -6,4 +6,20 @@
 		<component base="uni0308" yOffset="226"/>
 		<component base="E"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>791</integer>
+						<key>width</key>
+						<integer>83</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

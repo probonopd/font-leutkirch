@@ -6,4 +6,35 @@
 		<component base="periodcentered" xOffset="212"/>
 		<component base="l"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.fontlab.hintData</key>
+			<dict>
+				<key>hhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>274</integer>
+						<key>width</key>
+						<integer>132</integer>
+					</dict>
+				</array>
+				<key>vhints</key>
+				<array>
+					<dict>
+						<key>position</key>
+						<integer>43</integer>
+						<key>width</key>
+						<integer>126</integer>
+					</dict>
+					<dict>
+						<key>position</key>
+						<integer>278</integer>
+						<key>width</key>
+						<integer>128</integer>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</lib>
 </glyph>

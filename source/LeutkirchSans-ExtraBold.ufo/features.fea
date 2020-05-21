@@ -230,6 +230,7 @@ feature kern {
      language dflt ;
       lookup kernHorizontalKerninginLatinlookup0;
 } kern;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
 
 @GDEF_Simple = [\A \AE \Adieresis \Alpha \B \Beta \C \Chi \D \E \Edieresis \Eng \Epsilon 
 	\Eta \Eth \F \G \Gamma \H \Hbar \I \IJ \Idieresis \Iota \J \K \Kappa \L \Lambda \Ldot 
