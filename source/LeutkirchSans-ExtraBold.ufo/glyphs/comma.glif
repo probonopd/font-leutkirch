@@ -4,10 +4,10 @@
 	<advance width="232"/>
 	<outline>
 		<contour>
-			<point x="185" y="95" type="line"/>
-			<point x="59" y="95" type="line"/>
-			<point x="34" y="-157" type="line"/>
-			<point x="129" y="-157" type="line"/>
+			<point x="185" y="127" type="line"/>
+			<point x="59" y="127" type="line"/>
+			<point x="34" y="-125" type="line"/>
+			<point x="129" y="-125" type="line"/>
 		</contour>
 	</outline>
 	<lib>
