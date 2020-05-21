@@ -22,7 +22,22 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
-2020-05-19 Add extrema and reduce number of points
+2020-05-21 (Leutkirch team) Improve spacing, alignment, and metadata
+- Set character spacing
+  - Normal: In FontForge, Ctrl-A -> Set Width... -> Scale Width By: 104%
+  - Light: -1%
+  - Bold: +1%
+  - ExtraBold: +2%
+  - Black: +3%
+- Fix vertical alignment of .,;:!? characters
+- Add line spacing using FontForge
+  - Font Info -> OS/2 -> Metrics -> Typo Line Gap and HHead Line Gap -> 240
+- Add hinting using FontForge
+  - Font Info -> PS Private -> Have BlueValues, OtherBlues, BlueFuzz,
+    BlueScale, BlueShift, LanguageGroup, ExpansionFactor estimated
+  - Hints -> AutoHint
+ 
+2020-05-19 (Leutkirch team) Add extrema and reduce number of points
 - In FontForge, select point(s) that are not essential for describing
   the shape and press Ctrl-M (“Merge”)
 - Some manual corrections had to be made in characters like S, s, ~
