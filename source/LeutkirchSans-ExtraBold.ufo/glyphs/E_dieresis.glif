@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Edieresis" format="2">
 	<unicode hex="00CB"/>
-	<advance width="480"/>
+	<advance width="499"/>
 	<outline>
 		<component base="uni0308" yOffset="271"/>
 		<component base="E"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guillemotleft" format="2">
 	<unicode hex="00AB"/>
-	<advance width="940"/>
+	<advance width="977"/>
 	<outline>
 		<contour>
 			<point x="213" y="342" type="line"/>

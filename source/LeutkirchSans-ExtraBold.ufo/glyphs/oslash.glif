@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oslash" format="2">
 	<unicode hex="00F8"/>
-	<advance width="533"/>
+	<advance width="554"/>
 	<outline>
 		<contour>
 			<point x="384" y="252" type="curve" smooth="yes"/>

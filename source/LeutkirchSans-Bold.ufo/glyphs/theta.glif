@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="theta" format="2">
 	<unicode hex="03B8"/>
-	<advance width="491"/>
+	<advance width="510"/>
 	<outline>
 		<contour>
 			<point x="241" y="-11" type="curve" smooth="yes"/>

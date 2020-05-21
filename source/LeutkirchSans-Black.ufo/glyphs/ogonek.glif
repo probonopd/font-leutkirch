@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ogonek" format="2">
 	<unicode hex="02DB"/>
-	<advance width="280"/>
+	<advance width="291"/>
 	<outline>
 		<contour>
 			<point x="18" y="48" type="line"/>

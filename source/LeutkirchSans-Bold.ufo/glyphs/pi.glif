@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pi" format="2">
 	<unicode hex="03C0"/>
-	<advance width="517"/>
+	<advance width="537"/>
 	<outline>
 		<contour>
 			<point x="113" y="0" type="line"/>

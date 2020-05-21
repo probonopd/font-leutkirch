@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dollar" format="2">
 	<unicode hex="0024"/>
-	<advance width="485"/>
+	<advance width="504"/>
 	<outline>
 		<contour>
 			<point x="258" y="46" type="curve"/>

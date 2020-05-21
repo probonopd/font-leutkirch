@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hbar" format="2">
 	<unicode hex="0127"/>
-	<advance width="538"/>
+	<advance width="559"/>
 	<outline>
 		<contour>
 			<point x="117" y="565" type="line"/>

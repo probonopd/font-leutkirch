@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lambda" format="2">
 	<unicode hex="039B"/>
-	<advance width="559"/>
+	<advance width="581"/>
 	<outline>
 		<contour>
 			<point x="315" y="707" type="line"/>

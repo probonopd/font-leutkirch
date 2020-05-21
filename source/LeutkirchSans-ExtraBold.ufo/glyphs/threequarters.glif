@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="threequarters" format="2">
 	<unicode hex="00BE"/>
-	<advance width="838"/>
+	<advance width="871"/>
 	<outline>
 		<contour>
 			<point x="133" y="-81" type="line"/>

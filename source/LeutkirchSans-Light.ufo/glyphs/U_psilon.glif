@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Upsilon" format="2">
 	<unicode hex="03A5"/>
-	<advance width="556"/>
+	<advance width="578"/>
 	<outline>
 		<contour>
 			<point x="247" y="14" type="line"/>
