@@ -230,7 +230,6 @@ feature kern {
      language dflt ;
       lookup kernHorizontalKerninginLatinlookup0;
 } kern;
-#Mark attachment classes (defined in GDEF, used in lookupflags)
 
 @GDEF_Simple = [\A \AE \Adieresis \Alpha \B \Beta \C \Chi \D \E \Edieresis \Eng \Epsilon 
 	\Eta \Eth \F \G \Gamma \H \Hbar \I \IJ \Idieresis \Iota \J \K \Kappa \L \Lambda \Ldot 
@@ -262,7 +261,7 @@ feature kern {
 	\uni0437 \uni0438 \uni0439 \uni043A \uni043B \uni043C \uni043D \uni043E \uni043F 
 	\uni0440 \uni0441 \uni0442 \uni0443 \uni0444 \uni0445 \uni0446 \uni0447 \uni0448 
 	\uni0449 \uni044A \uni044B \uni044C \uni044D \uni044E \uni044F \uni0451 \uni2117 
-	\upsilon \v \w \x \xi \y \ydieresis \yen \z \zero \zeta ];
+	\upsilon \v \w \x \xi \y \ydieresis \yen \z \zero \zeta \uni2219 ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;
